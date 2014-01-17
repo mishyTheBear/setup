@@ -16,6 +16,5 @@ See also http://github.com/startup-class/dotfiles and
 for more details.
 
 
-
-
-
+Need to add
+sudo apt-get install npm
